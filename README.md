@@ -6,7 +6,7 @@
 
 ## 2. (Figure 2 - 6)
 
-<img src="./figures/figure23456/fig2.png" width="425"/> 
+<img src="./figures/figure23456/fig2_p.png" width="425"/> 
 <img src="./figures/figure23456/fig3.PNG" width="425"/> 
 <img src="./figures/figure23456/fig4.PNG" width="425"/> 
 <img src="./figures/figure23456/fig5.PNG" width="425"/> 
